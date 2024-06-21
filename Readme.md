@@ -1,4 +1,6 @@
-# Rag Based Medical Question Answer Dataset
+# AutoFloor.ai
+
+A diffusion model based floor plan generator with a flask backend and frontend using jinja templates
 
 
 ## Create a virtual environment
@@ -11,15 +13,3 @@ Create the environment:
 Activate the virtual environment:
 
 `.venv\Scripts\activate`
-
-
-## Setup Docker
-
-Pull the docker image:
-
-`docker pull qdrant/qdrant`
-
-Run the docker container:
-
-`docker run -p 6333:6333 --name database qdrant/qdrant`
-
