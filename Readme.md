@@ -1,6 +1,6 @@
 # AutoFloor.ai
 
-A diffusion model based floor plan generator with a flask backend and frontend using jinja templates
+Diffusion model based floor plan generator with a flask backend and frontend using jinja templates
 
 
 ## Create a virtual environment
